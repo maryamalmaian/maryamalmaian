@@ -1,16 +1,44 @@
-## Hi there 👋
+# Maryam Almaian
 
-<!--
-**maryamalmaian/maryamalmaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. Student in Architecture (High Performance Buildings) at Georgia Tech 
+M.S. in Architecture (High Performance Buildings), Georgia Tech | B.S. in Architectural Engineering, CU Boulder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a researcher and modeler specializing in **high-performance buildings, urban energy modeling, and AI/ML for urban energy modeling**. My work focuses on developing data-driven frameworks to:
+
+- Automate generation of UBEM inputs (URBANopt/HPXML)  
+- Predict missing building attributes using machine learning  
+- Evaluate **district energy systems** and **grid reliability** under future scenarios  
+- Advance adaptive thermal comfort models for **extreme desert climates (Kuwait)**  
+
+My goal is to merge **computational data analytics, machine learning, and architecture** to support resilient urban energy systems.
+
+---
+
+## Current Teaching & Service
+- Student Representative, Ph.D. Advisory Committee (Georgia Tech, 2025)  
+- Officer, IBPSA-USA Georgia Tech Chapter  
+
+---
+
+## Awards & Grants
+- **Undergraduate Ministry of Higher Education Merit Scholarship** (2018 - 2022)
+- **Wellness Award, Active Learning Award** (2022)  
+- **Outstanding Student Award** (2021, 2022) 
+- **Graduate Ministry of Higher Education Merit Scholarship** (2023 - 2024)  
+- **Kendeda Microgrant** (2023)   
+- **KFAS Scholarship Bridging Grant** (2025)  
+---
+
+## Skills
+- **Urban Energy Modeling:** URBANopt, ResStock, REopt, HPXML  
+- **Machine Learning & Data Analytics:** Python (TensorFlow, scikit-learn), R, GIS, computational statistics  
+- **Architecture & Simulation:** EnergyPlus, OpenStudio, CFD (OpenFOAM), daylight & comfort modeling  
+- **Data Tools:** Pandas, NumPy, visualization, HPC workflows  
+
+
+## Contact
+- Email: Malmaian3@gatech.edu 
+- [LinkedIn](https://linkedin.com/in/maryam-almaian)  
