@@ -6,15 +6,8 @@ M.S. in Architecture (High Performance Buildings), Georgia Tech | B.S. in Archit
 ---
 
 ## About Me
-I am a researcher and modeler specializing in **high-performance buildings, urban energy modeling, and AI/ML for urban energy modeling**. My work focuses on developing data-driven frameworks to:
-
-- Automate generation of UBEM inputs (URBANopt/HPXML)  
-- Predict missing building attributes using machine learning  
-- Evaluate **district energy systems** and **grid reliability** under future scenarios  
-- Advance adaptive thermal comfort models for **extreme desert climates (Kuwait)**  
-
+I am a researcher and modeler specializing in **high-performance buildings, urban energy modeling, and AI/ML for urban energy modeling**. 
 My goal is to merge **computational data analytics, machine learning, and architecture** to support resilient urban energy systems.
-
 ---
 
 ## Current 
