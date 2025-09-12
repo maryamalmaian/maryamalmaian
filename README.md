@@ -17,7 +17,7 @@ My goal is to merge **computational data analytics, machine learning, and archit
 
 ---
 
-## Current Teaching & Service
+## Current 
 - Student Representative, Ph.D. Advisory Committee (Georgia Tech, 2025)  
 - Officer, IBPSA-USA Georgia Tech Chapter  
 
