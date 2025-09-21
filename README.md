@@ -1,10 +1,3 @@
-# Maryam Almaian
-
-Ph.D. Student in Architecture (High Performance Buildings) at Georgia Tech 
-M.S. in Architecture (High Performance Buildings), Georgia Tech | B.S. in Architectural Engineering, CU Boulder
-
----
-
 
 Maryam Almaian is a Ph.D. student in Architecture (High Performance Buildings) at Georgia Tech. She also holds an M.S. in Architecture (High Performance Buildings) from Georgia Tech and a B.S. in Architectural Engineering from the University of Colorado Boulder. As a researcher and modeler, her work focuses on high-performance buildings, urban energy modeling, and the integration of AI and ML with computational data analytics to support resilient energy systems.
 
